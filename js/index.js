@@ -63,7 +63,6 @@ function displayBookInfo(book) {
 
 
 function likeBook(bookId, userList) {
-
     // hard-coded user
     const currUser = {"id": 2, "username": "auer"};
     let updateData;
